@@ -1,0 +1,334 @@
+{
+  "navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact",
+    "cart": "Cart",
+    "checkout": "Checkout"
+  },
+  "home": {
+    "hero": {
+      "title": "Premium Quality Shirts for the Modern Professional",
+      "subtitle": "Light as breeze, green with ease",
+      "cta": "Shop Now"
+    },
+    "features": {
+      "title": "Why Choose Mayouš",
+      "quality": {
+        "title": "Premium Quality",
+        "description": "Crafted with 65% Tencel, 25% Cotton, and 10% Gracell for unmatched comfort and durability"
+      },
+      "sustainability": {
+        "title": "Eco-Friendly",
+        "description": "Sustainable materials and production processes that respect our planet"
+      },
+      "comfort": {
+        "title": "All-Day Comfort",
+        "description": "Breathable fabrics designed for comfort during long office hours"
+      }
+    },
+    "products": {
+      "title": "Our Collection",
+      "viewAll": "View All Products"
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "From Vietnam to Czechia, Mayouš brings premium quality shirts with a commitment to sustainability and comfort.",
+      "readMore": "Read More"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "search": "Search products",
+    "filter": "Filter",
+    "sort": "Sort by",
+    "sortOptions": {
+      "newest": "Newest",
+      "priceAsc": "Price: Low to High",
+      "priceDesc": "Price: High to Low"
+    },
+    "noResults": "No products found",
+    "addToCart": "Add to Cart"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "size": "Size",
+    "quantity": "Quantity",
+    "description": "Description",
+    "material": "Material",
+    "shipping": {
+      "title": "Shipping",
+      "free": "Free shipping in Czechia",
+      "discounted": "Discounted shipping in European Union",
+      "international": "International shipping available",
+      "sanctions": "Due to sanctions or political instability, we currently can't ship to the following countries and territories: Afghanistan, Myanmar, North Korea (DPRK), Sudan, South Sudan, Syria, Donetsk and Luhansk regions"
+    }
+  },
+  "about": {
+    "title": "About Mayouš",
+    "pronunciation": "Pronunciation: IPA /majˈou̯ʃ/, Vietnamese transliteration: \"May-yâu-sh\"",
+    "story": {
+      "title": "Our Journey",
+      "content": [
+        "Mayouš (pronounced \"May-yâu-sh\", IPA: /majˈou̯ʃ/) is a premium shirt brand developed by Thanh Viet specifically for the Czech market. The name Mayouš draws inspiration from the popular Czech name \"Matouš\" (Matthew), creating a familiar and appealing connection with local consumers.",
+        "The \"May\" element carries dual meanings: in Vietnamese, \"may\" refers to sewing and garment making, the core business of the company. Simultaneously, \"May\" also evokes the image of clouds, representing the softness, lightness, and airiness that characterize the Tencel, Cotton, and Gracell blend fabrics and Vietnamese textiles.",
+        "The suffix \"-ouš\" in Czech is often used as a term of endearment, creating a sense of attachment and affection for customers in the Czech Republic. The name Mayouš thus represents not just a fashion brand but a symbol of gentleness, comfort, and affection, emphasizing the care and refinement in each product.",
+        "With our slogan \"Light as breeze, green with ease,\" we emphasize both the comfort of our fabrics and our commitment to environmental sustainability. From Vietnam to Czechia, we bring the finest craftsmanship and eco-friendly practices to create shirts that not only look good but feel good to wear and are good for the planet.",
+        "At Mayouš, we believe that fashion should be both beautiful and responsible. Our shirts are designed for the modern professional who values quality, comfort, and sustainability. Each shirt is crafted with care, using premium materials that are gentle on the skin and the environment.",
+        "Our journey from Vietnam to Czechia represents our commitment to bringing the best of Vietnamese craftsmanship to the European market. We are proud of our heritage and excited to share our passion for quality and sustainability with our customers in the Czech Republic and beyond."
+      ]
+    },
+    "values": {
+      "title": "Our Values",
+      "sustainability": {
+        "title": "Sustainability",
+        "description": "We are committed to using eco-friendly materials and production processes to minimize our environmental impact."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "We use only the finest materials and craftsmanship to create shirts that last."
+      },
+      "comfort": {
+        "title": "Comfort",
+        "description": "Our shirts are designed for all-day comfort, with breathable fabrics that feel great against your skin."
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "support": "Customer Support",
+    "email": "cs@mayous.cz",
+    "hours": {
+      "title": "Hours",
+      "business": "Business Hours: 8:00 - 18:00 (CET/CEST) every day",
+      "store": "Store Opening Hours: 6:00 - 23:00 (CET/CEST) every day",
+      "support": "Customer Support: 24 hours",
+      "timezone": "Central European Time (CET/CEST)"
+    },
+    "social": {
+      "title": "Follow Us",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "maps": "Google Maps"
+    }
+  },
+  "transparency": {
+    "title": "Transparency",
+    "company": {
+      "title": "About Our Company",
+      "description": [
+        "Thanh Viet Limited Liability Company is a private enterprise operating in the field of garment production and business, specializing in high-end office shirts. Thanh Viet is proud to be one of the leading enterprises in the field of production and business of office fashion in Vietnam.",
+        "After more than a decade of formation and development, Thanh Viet has gradually affirmed its solid position in the domestic market thanks to clear product orientation, elegant design, premium materials, and especially the commitment to sustainable fashion.",
+        "With the criteria \"Wear lightly, Live elegantly, Choose sustainably\", Thanh Viet not only focuses on the aesthetic value and comfort of the wearer but also deeply cares about the environmentally friendly factor in the entire production chain, from input materials to product packaging."
+      ]
+    },
+    "facilities": {
+      "title": "Our Facilities",
+      "description": [
+        "The headquarters of the enterprise is located on Dinh Nghi Xuan Street, Binh Tri Dong Ward, Binh Tan District, Ho Chi Minh City. This location is only about an hour's drive from Cat Lai Port, which is a great advantage in transporting goods, helping to shorten delivery time and optimize logistics costs.",
+        "The company's campus has a total area of more than 5,700m², including production areas and office areas that are scientifically planned and synchronized. Internal roads allow trucks weighing up to 10 tons to circulate easily, convenient for large-scale import and export activities.",
+        "The production area is equipped with a fire protection system that meets standards, modern machinery lines, and a safe, clean working environment. The office area consists of two floors, solidly built, with an airy design with many functional rooms serving management, administration, and product research and development activities."
+      ]
+    },
+    "production": {
+      "title": "Production Capacity",
+      "description": [
+        "Thanh Viet currently has the ability to supply tens of thousands of shirt products each month to the domestic market through retail and wholesale distribution systems in major provinces and cities stretching from North to South such as Hanoi, Bac Ninh, Bac Giang, Phu Tho, Vinh Phuc, Nam Dinh, Thanh Hoa, Nghe An, Ha Tinh, Da Nang, Ho Chi Minh City, Can Tho.",
+        "With modern production lines, skilled human resources, and strict quality control, the company always ensures delivery schedule, product uniformity, and flexibility in adjusting models according to market needs.",
+        "With a sustainable development orientation, Thanh Viet sets a vision to become a leading textile and garment brand in Vietnam in the high-quality office fashion segment, reaching out to the international market, especially in countries belonging to the European Union (EU).",
+        "The enterprise is committed to pursuing the mission of providing products that are not only beautiful in form but also green, clean, and safe, contributing to elevating the Vietnamese textile and garment industry on the world fashion map."
+      ]
+    },
+    "sanctions": "Due to sanctions or political instability, we currently can't ship to the following countries and territories: Afghanistan, Myanmar, North Korea (DPRK), Sudan, South Sudan, Syria, Donetsk and Luhansk regions"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "continueShopping": "Continue Shopping",
+    "summary": "Order Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "update": "Update",
+    "remove": "Remove"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "contact": "Contact Information",
+    "shipping": {
+      "title": "Shipping Address",
+      "address": "Address",
+      "city": "City",
+      "zip": "ZIP Code",
+      "country": "Country"
+    },
+    "payment": {
+      "title": "Payment Method",
+      "methods": {
+        "card": "Debit/Credit Card",
+        "revolut": "Revolut",
+        "paypal": "PayPal",
+        "bank": "Online Bank Payment",
+        "cash": "Cash on Delivery",
+        "twisto": "Buy Now Pay Later (Twisto)"
+      }
+    },
+    "placeOrder": "Place Order",
+    "emptyCart": "Your cart is empty. Please add items before proceeding to checkout."
+  },
+  "success": {
+    "title": "Order Successful!",
+    "orderNumber": "Order Number",
+    "thankYou": "Thank you for your purchase!",
+    "emailConfirmation": "You will receive an email confirmation shortly.",
+    "continueShopping": "Continue Shopping"
+  },
+  "common": {
+    "currency": "CZK",
+    "originalPrice": "Original price",
+    "discountedPrice": "Discounted price",
+    "slogan": "Light as breeze, green with ease"
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "mockupNotice": "This is a sample website created as part of an International Trade course project at the Diplomatic Academy of Vietnam. All information on this website is fictional and has no legal or reference value. We are committed to not collecting any personal information.",
+    "introTitle": "Introduction",
+    "content": {
+      "intro": "Welcome to Mayouš. This Privacy Policy explains how we might collect, use, and share your information if this were a real website. Since this is a mockup example, no actual data collection occurs.",
+      "collect": {
+        "title": "Information We Would Collect",
+        "text": "If this were a real e-commerce website, we might collect the following types of information:",
+        "items": [
+          "Personal information (name, email address, shipping address)",
+          "Payment information (processed securely through payment processors)",
+          "Order history and preferences",
+          "Device information and browsing data"
+        ]
+      },
+      "cookies": {
+        "title": "Cookies",
+        "text": "In a real implementation, this website would use cookies to enhance your browsing experience. These might include:",
+        "items": [
+          "Essential cookies for site functionality",
+          "Analytics cookies to understand site usage",
+          "Preference cookies to remember your settings",
+          "Marketing cookies for targeted advertising"
+        ]
+      },
+      "usage": {
+        "title": "How We Would Use Your Information",
+        "text": "If this were a real website, we might use your information to:",
+        "items": [
+          "Process and fulfill your orders",
+          "Communicate with you about your orders and account",
+          "Improve our products and services",
+          "Send marketing communications (with your consent)"
+        ]
+      },
+      "security": {
+        "title": "Data Security",
+        "text": "In a real implementation, we would implement appropriate security measures to protect your personal information from unauthorized access, alteration, disclosure, or destruction."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "text": "Depending on your location, you would have certain rights regarding your personal information, such as:",
+        "items": [
+          "Right to access your personal information",
+          "Right to correct inaccurate information",
+          "Right to delete your information",
+          "Right to object to certain processing",
+          "Right to withdraw consent"
+        ]
+      },
+      "contact": {
+        "title": "Contact Information",
+        "text": "If this were a real website, you could contact us at privacy@mayous.cz with any privacy-related questions."
+      },
+      "changes": {
+        "title": "Changes to This Policy",
+        "text": "We would reserve the right to update this Privacy Policy periodically to reflect changes in our practices or for legal, operational, or regulatory reasons."
+      },
+      "lastUpdated": "Last updated: April 11, 2025"
+    }
+  },
+  "terms": {
+    "title": "Terms & Conditions",
+    "mockupNotice": "This is a sample website created as part of an International Trade course project at the Diplomatic Academy of Vietnam. All information on this website is fictional and has no legal or reference value. We are committed to not collecting any personal information.",
+    "content": {
+      "intro": {
+        "title": "Introduction",
+        "text": "Welcome to Mayouš. These Terms and Conditions govern your use of our website and the purchase of products from our online store. By accessing our website or placing an order, you would agree to these terms if this were a real e-commerce website."
+      },
+      "definitions": {
+        "title": "Definitions",
+        "text": "In these Terms and Conditions:",
+        "items": [
+          "\"We\", \"us\", \"our\", and \"Mayouš\" refer to Thanh Viet Limited Liability Company",
+          "\"You\" and \"your\" refer to the user or customer",
+          "\"Website\" refers to mayous.cz and all its subdomains",
+          "\"Products\" refers to the items offered for sale on our website"
+        ]
+      },
+      "account": {
+        "title": "Account Registration",
+        "text": "If this were a real website, when creating an account, you would be responsible for:",
+        "items": [
+          "Providing accurate and complete information",
+          "Maintaining the confidentiality of your account credentials",
+          "All activities that occur under your account"
+        ]
+      },
+      "products": {
+        "title": "Products and Pricing",
+        "text": "In a real implementation:",
+        "items": [
+          "We would make every effort to accurately display product colors, but cannot guarantee that your device's display accurately reflects the actual colors",
+          "We would reserve the right to modify prices at any time",
+          "All prices would be displayed in Czech Koruna (CZK) and include applicable taxes"
+        ]
+      },
+      "orders": {
+        "title": "Orders and Payment",
+        "text": "If this were a real website:",
+        "items": [
+          "Placing an order would constitute an offer to purchase products",
+          "We would reserve the right to refuse or cancel any order for any reason",
+          "Payment would be required at the time of placing an order",
+          "We would accept various payment methods as indicated on the checkout page"
+        ]
+      },
+      "shipping": {
+        "title": "Shipping and Delivery",
+        "text": "In a real implementation:",
+        "items": [
+          "Shipping costs and estimated delivery times would be provided during checkout",
+          "We would not be responsible for delays caused by customs, weather conditions, or other factors beyond our control",
+          "Risk of loss and title for items purchased would pass to you upon delivery"
+        ]
+      },
+      "returns": {
+        "title": "Returns and Refunds",
+        "text": "If this were a real website, our return policy would allow you to return products within 14 days of receipt, provided they are in original condition with tags attached and original packaging."
+      },
+      "intellectual": {
+        "title": "Intellectual Property",
+        "text": "All content on this website, including text, graphics, logos, images, and software, would be the property of Mayouš or its content suppliers and protected by international copyright laws."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "text": "In a real implementation, to the maximum extent permitted by law, Mayouš would not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of our website or products."
+      },
+      "governing": {
+        "title": "Governing Law",
+        "text": "These Terms and Conditions would be governed by and construed in accordance with the laws of the Czech Republic, without regard to its conflict of law principles."
+      },
+      "changes": {
+        "title": "Changes to Terms",
+        "text": "We would reserve the right to update these Terms and Conditions at any time. Changes would be effective immediately upon posting on the website."
+      },
+      "lastUpdated": "Last updated: April 11, 2025"
+    }
+  }
+}

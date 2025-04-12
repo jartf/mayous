@@ -1,0 +1,334 @@
+{
+  "navigation": {
+    "home": "Domů",
+    "products": "Produkty",
+    "about": "O nás",
+    "contact": "Kontakt",
+    "cart": "Košík",
+    "checkout": "Pokladna"
+  },
+  "home": {
+    "hero": {
+      "title": "Prémiové košile pro moderního profesionála",
+      "subtitle": "Lehký jak vánek, zelený jak hájek",
+      "cta": "Nakupovat"
+    },
+    "features": {
+      "title": "Proč zvolit Mayouš",
+      "quality": {
+        "title": "Prémiová kvalita",
+        "description": "Vyrobeno z 65% Tencelu, 25% bavlny a 10% Gracellu pro nepřekonatelné pohodlí a odolnost"
+      },
+      "sustainability": {
+        "title": "Ekologicky šetrné",
+        "description": "Udržitelné materiály a výrobní procesy, které respektují naši planetu"
+      },
+      "comfort": {
+        "title": "Celodenní pohodlí",
+        "description": "Prodyšné látky navržené pro pohodlí během dlouhých kancelářských hodin"
+      }
+    },
+    "products": {
+      "title": "Naše kolekce",
+      "viewAll": "Zobrazit všechny produkty"
+    },
+    "story": {
+      "title": "Náš příběh",
+      "content": "Z Vietnamu do Česka, Mayouš přináší košile prémiové kvality se závazkem k udržitelnosti a pohodlí.",
+      "readMore": "Číst více"
+    }
+  },
+  "products": {
+    "title": "Naše produkty",
+    "search": "Hledat produkty",
+    "filter": "Filtrovat",
+    "sort": "Seřadit podle",
+    "sortOptions": {
+      "newest": "Nejnovější",
+      "priceAsc": "Cena: od nejnižší",
+      "priceDesc": "Cena: od nejvyšší"
+    },
+    "noResults": "Žádné produkty nenalezeny",
+    "addToCart": "Přidat do košíku"
+  },
+  "product": {
+    "addToCart": "Přidat do košíku",
+    "size": "Velikost",
+    "quantity": "Množství",
+    "description": "Popis",
+    "material": "Materiál",
+    "shipping": {
+      "title": "Doprava",
+      "free": "Doprava zdarma v České republice",
+      "discounted": "Zvýhodněná doprava v Evropské unii",
+      "international": "Mezinárodní doprava k dispozici",
+      "sanctions": "Z důvodu sankcí nebo politické nestability momentálně nemůžeme doručovat do následujících zemí a území: Afghánistán, Myanmar, Severní Korea (KLDR), Súdán, Jižní Súdán, Sýrie, oblasti Doněck a Luhansk"
+    }
+  },
+  "about": {
+    "title": "O Mayouš",
+    "pronunciation": "Výslovnost: IPA /majˈou̯ʃ/, vietnamská transliterace: \"May-yâu-sh\"",
+    "story": {
+      "title": "Naše cesta",
+      "content": [
+        "Mayouš (vyslovováno \"May-yâu-sh\", IPA: /majˈou̯ʃ/) je prémiová značka košil vyvinutá společností Thanh Viet speciálně pro český trh. Název Mayouš je inspirován populárním českým jménem \"Matouš\", což vytváří známé a přitažlivé spojení s místními spotřebiteli.",
+        "Prvek \"May\" nese dvojí význam: ve vietnamštině \"may\" označuje šití a výrobu oděvů, což je hlavní činnost společnosti. Zároveň \"May\" evokuje obraz mraků, představující měkkost, lehkost a vzdušnost, které charakterizují směs látek Tencel, bavlna a Gracell a vietnamské textilie.",
+        "Přípona \"-ouš\" v češtině se často používá jako výraz náklonnosti, což vytváří pocit připoutanosti a náklonnosti pro zákazníky v České republice. Název Mayouš tak nepředstavuje jen módní značku, ale symbol jemnosti, pohodlí a náklonnosti, zdůrazňující péči a vytříbenost v každém produktu.",
+        "S naším sloganem \"Lehký jak vánek, zelený jak hájek\" zdůrazňujeme jak pohodlí našich látek, tak náš závazek k environmentální udržitelnosti. Z Vietnamu do Česka přinášíme nejlepší řemeslné zpracování a ekologické postupy k vytvoření košil, které nejen dobře vypadají, ale také se dobře nosí a jsou dobré pro planetu.",
+        "V Mayouš věříme, že móda by měla být krásná i zodpovědná. Naše košile jsou navrženy pro moderního profesionála, který si cení kvality, pohodlí a udržitelnosti. Každá košile je vyrobena s péčí, s použitím prémiových materiálů, které jsou šetrné k pokožce i k životnímu prostředí.",
+        "Naše cesta z Vietnamu do Česka představuje náš závazek přinést to nejlepší z vietnamského řemeslného zpracování na evropský trh. Jsme hrdí na naše dědictví a těšíme se, že se podělíme o naši vášeň pro kvalitu a udržitelnost s našimi zákazníky v České republice a mimo ni."
+      ]
+    },
+    "values": {
+      "title": "Naše hodnoty",
+      "sustainability": {
+        "title": "Udržitelnost",
+        "description": "Jsme odhodláni používat ekologicky šetrné materiály a výrobní procesy, abychom minimalizovali náš dopad na životní prostředí."
+      },
+      "quality": {
+        "title": "Kvalita",
+        "description": "Používáme pouze nejkvalitnější materiály a řemeslné zpracování k vytvoření košil, které vydrží."
+      },
+      "comfort": {
+        "title": "Pohodlí",
+        "description": "Naše košile jsou navrženy pro celodenní pohodlí, s prodyšnými látkami, které se příjemně nosí."
+      }
+    }
+  },
+  "contact": {
+    "title": "Kontaktujte nás",
+    "support": "Zákaznická podpora",
+    "email": "cs@mayous.cz",
+    "hours": {
+      "title": "Otevírací doba",
+      "business": "Pracovní doba: 8:00 - 18:00 (CET/CEST) každý den",
+      "store": "Otevírací doba obchodu: 6:00 - 23:00 (CET/CEST) každý den",
+      "support": "Zákaznická podpora: 24 hodin",
+      "timezone": "Středoevropský čas (CET/CEST)"
+    },
+    "social": {
+      "title": "Sledujte nás",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "maps": "Google Mapy"
+    }
+  },
+  "transparency": {
+    "title": "Transparentnost",
+    "company": {
+      "title": "O naší společnosti",
+      "description": [
+        "Thanh Viet Limited Liability Company je soukromý podnik působící v oblasti výroby a obchodu s oděvy, specializující se na luxusní kancelářské košile. Thanh Viet je hrdý na to, že je jedním z předních podniků v oblasti výroby a obchodu s kancelářskou módou ve Vietnamu.",
+        "Po více než desetiletí formování a rozvoje si Thanh Viet postupně upevnil své pevné postavení na domácím trhu díky jasné orientaci na produkty, elegantnímu designu, prémiovým materiálům a zejména závazku k udržitelné módě.",
+        "S kritérii \"Nosit lehce, Žít elegantně, Vybírat udržitelně\" se Thanh Viet nezaměřuje pouze na estetickou hodnotu a pohodlí nositele, ale také hluboce dbá na ekologicky šetrný faktor v celém výrobním řetězci, od vstupních materiálů až po balení produktů."
+      ]
+    },
+    "facilities": {
+      "title": "Naše zařízení",
+      "description": [
+        "Sídlo podniku se nachází v ulici Dinh Nghi Xuan, čtvrť Binh Tri Dong, okres Binh Tan, Ho Či Minovo město. Tato lokalita je vzdálena pouze asi hodinu jízdy od přístavu Cat Lai, což je velkou výhodou při přepravě zboží, pomáhá zkrátit dobu dodání a optimalizovat logistické náklady.",
+        "Areál společnosti má celkovou rozlohu více než 5 700 m², včetně výrobních prostor a kancelářských prostor, které jsou vědecky plánovány a synchronizovány. Vnitřní komunikace umožňují snadnou cirkulaci nákladních vozidel o hmotnosti až 10 tun, což je výhodné pro rozsáhlé dovozní a vývozní aktivity.",
+        "Výrobní prostor je vybaven protipožárním systémem, který splňuje standardy, moderními strojními linkami a bezpečným, čistým pracovním prostředím. Kancelářská část se skládá ze dvou podlaží, je solidně postavena, s vzdušným designem s mnoha funkčními místnostmi sloužícími pro řízení, správu a výzkum a vývoj produktů."
+      ]
+    },
+    "production": {
+      "title": "Výrobní kapacita",
+      "description": [
+        "Thanh Viet má v současné době schopnost dodávat desítky tisíc košilových výrobků každý měsíc na domácí trh prostřednictvím maloobchodních a velkoobchodních distribučních systémů ve velkých provinciích a městech táhnoucích se od severu k jihu, jako jsou Hanoj, Bac Ninh, Bac Giang, Phu Tho, Vinh Phuc, Nam Dinh, Thanh Hoa, Nghe An, Ha Tinh, Da Nang, Ho Či Minovo město, Can Tho.",
+        "S moderními výrobními linkami, kvalifikovanými lidskými zdroji a přísnou kontrolou kvality společnost vždy zajišťuje harmonogram dodávek, jednotnost produktů a flexibilitu při úpravě modelů podle potřeb trhu.",
+        "S orientací na udržitelný rozvoj si Thanh Viet stanovuje vizi stát se přední textilní a oděvní značkou ve Vietnamu v segmentu vysoce kvalitní kancelářské módy, dosahující mezinárodního trhu, zejména v zemích patřících do Evropské unie (EU).",
+        "Podnik se zavazuje sledovat poslání poskytovat produkty, které jsou nejen krásné formou, ale také zelené, čisté a bezpečné, přispívající k povýšení vietnamského textilního a oděvního průmyslu na mapě světové módy."
+      ]
+    },
+    "sanctions": "Z důvodu sankcí nebo politické nestability momentálně nemůžeme doručovat do následujících zemí a území: Afghánistán, Myanmar, Severní Korea (KLDR), Súdán, Jižní Súdán, Sýrie, oblasti Doněck a Luhansk"
+  },
+  "cart": {
+    "title": "Váš košík",
+    "empty": "Váš košík je prázdný",
+    "continueShopping": "Pokračovat v nákupu",
+    "summary": "Souhrn objednávky",
+    "subtotal": "Mezisoučet",
+    "shipping": "Doprava",
+    "total": "Celkem",
+    "checkout": "Pokračovat k pokladně",
+    "update": "Aktualizovat",
+    "remove": "Odstranit"
+  },
+  "checkout": {
+    "title": "Pokladna",
+    "contact": "Kontaktní informace",
+    "shipping": {
+      "title": "Doručovací adresa",
+      "address": "Adresa",
+      "city": "Město",
+      "zip": "PSČ",
+      "country": "Země"
+    },
+    "payment": {
+      "title": "Způsob platby",
+      "methods": {
+        "card": "Debetní/kreditní karta",
+        "revolut": "Revolut",
+        "paypal": "PayPal",
+        "bank": "Online bankovní převod",
+        "cash": "Dobírka",
+        "twisto": "Kup teď, zaplať později (Twisto)"
+      }
+    },
+    "placeOrder": "Odeslat objednávku",
+    "emptyCart": "Váš košík je prázdný. Před pokračováním k pokladně prosím přidejte položky."
+  },
+  "success": {
+    "title": "Objednávka úspěšná!",
+    "orderNumber": "Číslo objednávky",
+    "thankYou": "Děkujeme za váš nákup!",
+    "emailConfirmation": "Brzy obdržíte e-mailové potvrzení.",
+    "continueShopping": "Pokračovat v nákupu"
+  },
+  "common": {
+    "currency": "Kč",
+    "originalPrice": "Původní cena",
+    "discountedPrice": "Zlevněná cena",
+    "slogan": "Lehký jak vánek, zelený jak hájek"
+  },
+  "privacy": {
+    "title": "Zásady ochrany osobních údajů",
+    "mockupNotice": "Toto je ukázkový web vytvořený v rámci projektu kurzu Mezinárodního obchodu na Diplomatické akademii Vietnamu. Veškeré informace na tomto webu jsou fiktivní a nemají žádnou právní ani referenční hodnotu. Zavazujeme se, že nebudeme shromažďovat žádné osobní údaje.",
+    "introTitle": "Úvod",
+    "content": {
+      "intro": "Vítejte v Mayouš. Tyto Zásady ochrany osobních údajů vysvětlují, jak bychom mohli shromažďovat, používat a sdílet vaše informace, kdyby se jednalo o skutečný web. Jelikož jde o ukázkový příklad, nedochází k žádnému skutečnému sběru dat.",
+      "collect": {
+        "title": "Informace, které bychom shromažďovali",
+        "text": "Kdyby se jednalo o skutečný e-shop, mohli bychom shromažďovat následující typy informací:",
+        "items": [
+          "Osobní údaje (jméno, e-mailová adresa, doručovací adresa)",
+          "Platební údaje (zpracovávané bezpečně prostřednictvím platebních procesorů)",
+          "Historie objednávek a preference",
+          "Informace o zařízení a údaje o prohlížení"
+        ]
+      },
+      "cookies": {
+        "title": "Cookies",
+        "text": "V reálné implementaci by tento web používal cookies ke zlepšení vašeho zážitku z prohlížení. Tyto by mohly zahrnovat:",
+        "items": [
+          "Nezbytné cookies pro funkčnost webu",
+          "Analytické cookies pro pochopení využití webu",
+          "Preferenční cookies pro zapamatování vašich nastavení",
+          "Marketingové cookies pro cílenou reklamu"
+        ]
+      },
+      "usage": {
+        "title": "Jak bychom používali vaše informace",
+        "text": "Kdyby se jednalo o skutečný web, mohli bychom vaše informace používat k:",
+        "items": [
+          "Zpracování a plnění vašich objednávek",
+          "Komunikaci s vámi ohledně vašich objednávek a účtu",
+          "Zlepšování našich produktů a služeb",
+          "Zasílání marketingových sdělení (s vaším souhlasem)"
+        ]
+      },
+      "security": {
+        "title": "Zabezpečení dat",
+        "text": "V reálné implementaci bychom zavedli vhodná bezpečnostní opatření k ochraně vašich osobních údajů před neoprávněným přístupem, změnou, zveřejněním nebo zničením."
+      },
+      "rights": {
+        "title": "Vaše práva",
+        "text": "V závislosti na vaší lokalitě byste měli určitá práva týkající se vašich osobních údajů, jako například:",
+        "items": [
+          "Právo na přístup k vašim osobním údajům",
+          "Právo na opravu nepřesných údajů",
+          "Právo na vymazání vašich údajů",
+          "Právo vznést námitku proti určitému zpracování",
+          "Právo odvolat souhlas"
+        ]
+      },
+      "contact": {
+        "title": "Kontaktní informace",
+        "text": "Kdyby se jednalo o skutečný web, mohli byste nás kontaktovat na adrese privacy@mayous.cz s jakýmikoli dotazy týkajícími se ochrany osobních údajů."
+      },
+      "changes": {
+        "title": "Změny těchto zásad",
+        "text": "Vyhrazujeme si právo tyto Zásady ochrany osobních údajů pravidelně aktualizovat, abychom zohlednili změny v našich postupech nebo z právních, provozních či regulačních důvodů."
+      },
+      "lastUpdated": "Poslední aktualizace: 11. dubna 2025"
+    }
+  },
+  "terms": {
+    "title": "Obchodní podmínky",
+    "mockupNotice": "Toto je ukázkový web vytvořený v rámci projektu kurzu Mezinárodního obchodu na Diplomatické akademii Vietnamu. Veškeré informace na tomto webu jsou fiktivní a nemají žádnou právní ani referenční hodnotu. Zavazujeme se, že nebudeme shromažďovat žádné osobní údaje.",
+    "content": {
+      "intro": {
+        "title": "Úvod",
+        "text": "Vítejte v Mayouš. Tyto Obchodní podmínky upravují vaše používání našeho webu a nákup produktů z našeho internetového obchodu. Přístupem na náš web nebo zadáním objednávky byste souhlasili s těmito podmínkami, kdyby se jednalo o skutečný e-shop."
+      },
+      "definitions": {
+        "title": "Definice",
+        "text": "V těchto Obchodních podmínkách:",
+        "items": [
+          "\"My\", \"nás\", \"náš\" a \"Mayouš\" odkazují na společnost Thanh Viet Limited Liability Company",
+          "\"Vy\" a \"váš\" odkazují na uživatele nebo zákazníka",
+          "\"Web\" odkazuje na mayous.cz a všechny jeho subdomény",
+          "\"Produkty\" odkazují na položky nabízené k prodeji na našem webu"
+        ]
+      },
+      "account": {
+        "title": "Registrace účtu",
+        "text": "Kdyby se jednalo o skutečný web, při vytváření účtu byste byli odpovědní za:",
+        "items": [
+          "Poskytnutí přesných a úplných informací",
+          "Zachování důvěrnosti přihlašovacích údajů k vašemu účtu",
+          "Veškeré aktivity, které se odehrávají pod vaším účtem"
+        ]
+      },
+      "products": {
+        "title": "Produkty a ceny",
+        "text": "V reálné implementaci:",
+        "items": [
+          "Bychom se snažili přesně zobrazovat barvy produktů, ale nemůžeme zaručit, že displej vašeho zařízení přesně odráží skutečné barvy",
+          "Bychom si vyhrazovali právo kdykoli upravit ceny",
+          "By všechny ceny byly zobrazeny v českých korunách (CZK) a zahrnovaly by příslušné daně"
+        ]
+      },
+      "orders": {
+        "title": "Objednávky a platby",
+        "text": "Kdyby se jednalo o skutečný web:",
+        "items": [
+          "Zadání objednávky by představovalo nabídku na nákup produktů",
+          "Vyhradili bychom si právo odmítnout nebo zrušit jakoukoli objednávku z jakéhokoli důvodu",
+          "Platba by byla vyžadována v okamžiku zadání objednávky",
+          "Přijímali bychom různé platební metody, jak je uvedeno na stránce pokladny"
+        ]
+      },
+      "shipping": {
+        "title": "Doprava a doručení",
+        "text": "V reálné implementaci:",
+        "items": [
+          "Náklady na dopravu a odhadované doby doručení by byly poskytnuty během procesu objednávky",
+          "Nebyli bychom odpovědní za zpoždění způsobená celními úřady, povětrnostními podmínkami nebo jinými faktory mimo naši kontrolu",
+          "Riziko ztráty a vlastnické právo k zakoupeným položkám by přešlo na vás při doručení"
+        ]
+      },
+      "returns": {
+        "title": "Vrácení a refundace",
+        "text": "Kdyby se jednalo o skutečný web, naše politika vrácení by vám umožňovala vrátit produkty do 14 dnů od obdržení, za předpokladu, že jsou v původním stavu s připevněnými visačkami a v původním obalu."
+      },
+      "intellectual": {
+        "title": "Duševní vlastnictví",
+        "text": "Veškerý obsah na tomto webu, včetně textu, grafiky, log, obrázků a softwaru, by byl majetkem společnosti Mayouš nebo jejích dodavatelů obsahu a byl by chráněn mezinárodními zákony o autorských právech."
+      },
+      "liability": {
+        "title": "Omezení odpovědnosti",
+        "text": "V reálné implementaci by společnost Mayouš v maximálním rozsahu povoleném zákonem nenesla odpovědnost za žádné nepřímé, náhodné, zvláštní, následné nebo trestní škody vyplývající z vašeho používání našeho webu nebo produktů."
+      },
+      "governing": {
+        "title": "Rozhodné právo",
+        "text": "Tyto Obchodní podmínky by se řídily a vykládaly v souladu s právem České republiky, bez ohledu na jeho kolizní normy."
+      },
+      "changes": {
+        "title": "Změny podmínek",
+        "text": "Vyhrazujeme si právo tyto Obchodní podmínky kdykoli aktualizovat. Změny by byly účinné okamžitě po zveřejnění na webu."
+      },
+      "lastUpdated": "Poslední aktualizace: 11. dubna 2025"
+    }
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "navigation": {
+    "home": "Trang chủ",
+    "products": "Sản phẩm",
+    "about": "Giới thiệu",
+    "contact": "Liên hệ",
+    "cart": "Giỏ hàng",
+    "checkout": "Thanh toán"
+  },
+  "home": {
+    "hero": {
+      "title": "Áo sơ mi cao cấp cho người chuyên nghiệp hiện đại",
+      "subtitle": "Mềm như mây, xanh như cây",
+      "cta": "Mua ngay"
+    },
+    "features": {
+      "title": "Tại sao chọn Mayouš",
+      "quality": {
+        "title": "Chất lượng cao cấp",
+        "description": "Được làm từ 65% Tencel, 25% Cotton và 10% Gracell cho sự thoải mái và độ bền vượt trội"
+      },
+      "sustainability": {
+        "title": "Thân thiện với môi trường",
+        "description": "Vật liệu và quy trình sản xuất bền vững tôn trọng hành tinh của chúng ta"
+      },
+      "comfort": {
+        "title": "Thoải mái cả ngày",
+        "description": "Vải thoáng khí được thiết kế để thoải mái trong suốt giờ làm việc dài"
+      }
+    },
+    "products": {
+      "title": "Bộ sưu tập của chúng tôi",
+      "viewAll": "Xem tất cả sản phẩm"
+    },
+    "story": {
+      "title": "Câu chuyện của chúng tôi",
+      "content": "Từ Việt Nam đến Cộng hòa Séc, Mayouš mang đến những chiếc áo sơ mi chất lượng cao cấp với cam kết về sự bền vững và thoải mái.",
+      "readMore": "Đọc thêm"
+    }
+  },
+  "products": {
+    "title": "Sản phẩm của chúng tôi",
+    "search": "Tìm kiếm sản phẩm",
+    "filter": "Lọc",
+    "sort": "Sắp xếp theo",
+    "sortOptions": {
+      "newest": "Mới nhất",
+      "priceAsc": "Giá: Thấp đến cao",
+      "priceDesc": "Giá: Cao đến thấp"
+    },
+    "noResults": "Không tìm thấy sản phẩm",
+    "addToCart": "Thêm vào giỏ hàng"
+  },
+  "product": {
+    "addToCart": "Thêm vào giỏ hàng",
+    "size": "Kích cỡ",
+    "quantity": "Số lượng",
+    "description": "Mô tả",
+    "material": "Chất liệu",
+    "shipping": {
+      "title": "Vận chuyển",
+      "free": "Miễn phí vận chuyển tại Cộng hòa Séc",
+      "discounted": "Giảm giá vận chuyển trong Liên minh Châu Âu",
+      "international": "Có vận chuyển quốc tế",
+      "sanctions": "Do lệnh trừng phạt hoặc bất ổn chính trị, hiện tại chúng tôi không thể giao hàng đến các quốc gia và vùng lãnh thổ sau: Afghanistan, Myanmar, Triều Tiên (CHDCND), Sudan, Nam Sudan, Syria, khu vực Donetsk và Luhansk"
+    }
+  },
+  "about": {
+    "title": "Về Mayouš",
+    "pronunciation": "Cách phát âm: IPA /majˈou̯ʃ/, phiên âm tiếng Việt: \"May-yâu-sh\"",
+    "story": {
+      "title": "Hành trình của chúng tôi",
+      "content": [
+        "Mayouš (phát âm là \"May-yâu-sh\", IPA: /majˈou̯ʃ/) là thương hiệu áo sơ mi cao cấp được phát triển bởi Thanh Việt đặc biệt cho thị trường Cộng hòa Séc. Tên Mayouš lấy cảm hứng từ tên phổ biến của Séc \"Matouš\" (Matthew), tạo ra sự kết nối quen thuộc và hấp dẫn với người tiêu dùng địa phương.",
+        "Yếu tố \"May\" mang hai ý nghĩa: trong tiếng Việt, \"may\" đề cập đến may mặc, lĩnh vực kinh doanh cốt lõi của công ty. Đồng thời, \"May\" cũ ng gợi lên hình ảnh của mây, đại diện cho sự mềm mại, nhẹ nhàng và thoáng đãng đặc trưng của vải Tencel, Cotton và Gracell và hàng dệt Việt Nam.",
+        "Hậu tố \"-ouš\" trong tiếng Séc thường được sử dụng như một thuật ngữ thân thương, tạo cảm giác gắn bó và tình cảm cho khách hàng ở Cộng hòa Séc. Tên Mayouš do đó không chỉ đại diện cho một thương hiệu thời trang mà còn là biểu tượng của sự dịu dàng, thoải mái và tình cảm, nhấn mạnh sự chăm sóc và tinh tế trong mỗi sản phẩm.",
+        "Với khẩu hiệu \"Mềm như mây, xanh như cây\", chúng tôi nhấn mạnh cả sự thoải mái của vải và cam kết của chúng tôi đối với sự bền vững môi trường. Từ Việt Nam đến Cộng hòa Séc, chúng tôi mang đến kỹ năng thủ công tốt nhất và thực hành thân thiện với môi trường để tạo ra những chiếc áo sơ mi không chỉ đẹp mà còn thoải mái khi mặc và tốt cho hành tinh.",
+        "Tại Mayouš, chúng tôi tin rằng thời trang nên vừa đẹp vừa có trách nhiệm. Áo sơ mi của chúng tôi được thiết kế cho người chuyên nghiệp hiện đại, người đánh giá cao chất lượng, sự thoải mái và tính bền vững. Mỗi chiếc áo sơ mi được làm với sự chăm sóc, sử dụng vật liệu cao cấp nhẹ nhàng với da và môi trường.",
+        "Hành trình của chúng tôi từ Việt Nam đến Cộng hòa Séc thể hiện cam kết của chúng tôi trong việc mang kỹ năng thủ công tốt nhất của Việt Nam đến thị trường châu Âu. Chúng tôi tự hào về di sản của mình và hào hứng chia sẻ niềm đam mê về chất lượng và tính bền vững với khách hàng ở Cộng hòa Séc và hơn thế nữa."
+      ]
+    },
+    "values": {
+      "title": "Giá trị của chúng tôi",
+      "sustainability": {
+        "title": "Bền vững",
+        "description": "Chúng tôi cam kết sử dụng vật liệu và quy trình sản xuất thân thiện với môi trường để giảm thiểu tác động đến môi trường."
+      },
+      "quality": {
+        "title": "Chất lượng",
+        "description": "Chúng tôi chỉ sử dụng vật liệu và kỹ năng thủ công tốt nhất để tạo ra những chiếc áo sơ mi bền lâu."
+      },
+      "comfort": {
+        "title": "Thoải mái",
+        "description": "Áo sơ mi của chúng tôi được thiết kế để thoải mái cả ngày, với vải thoáng khí cảm giác tuyệt vời trên da."
+      }
+    }
+  },
+  "contact": {
+    "title": "Liên hệ với chúng tôi",
+    "support": "Hỗ trợ khách hàng",
+    "email": "cs@mayous.cz",
+    "hours": {
+      "title": "Giờ làm việc",
+      "business": "Giờ làm việc: 8:00 - 18:00 (CET/CEST) mỗi ngày",
+      "store": "Giờ mở cửa cửa hàng: 6:00 - 23:00 (CET/CEST) mỗi ngày",
+      "support": "Hỗ trợ khách hàng: 24 giờ",
+      "timezone": "Giờ Trung Âu (CET/CEST)"
+    },
+    "social": {
+      "title": "Theo dõi chúng tôi",
+      "facebook": "Facebook",
+      "instagram": "Instagram",
+      "maps": "Google Maps"
+    }
+  },
+  "transparency": {
+    "title": "Minh bạch",
+    "company": {
+      "title": "Về công ty chúng tôi",
+      "description": [
+        "Công ty TNHH Thanh Việt là một doanh nghiệp tư nhân hoạt động trong lĩnh vực sản xuất và kinh doanh may mặc, chuyên về áo sơ mi văn phòng cao cấp. Thanh Việt tự hào là một trong những doanh nghiệp hàng đầu trong lĩnh vực sản xuất và kinh doanh thời trang văn phòng tại Việt Nam.",
+        "Sau hơn một thập kỷ hình thành và phát triển, Thanh Việt đã dần khẳng định vị thế vững chắc trên thị trường nội địa nhờ định hướng sản phẩm rõ ràng, thiết kế thanh lịch, chất liệu cao cấp và đặc biệt là cam kết hướng đến thời trang bền vững.",
+        "Với tiêu chí \"Mặc nhẹ nhàng, Sống thanh lịch, Chọn bền vững\", Thanh Việt không chỉ chú trọng đến giá trị thẩm mỹ và sự thoải mái của người mặc mà còn quan tâm sâu sắc đến yếu tố thân thiện với môi trường trong toàn bộ chuỗi sản xuất, từ nguyên liệu đầu vào cho đến đóng gói sản phẩm."
+      ]
+    },
+    "facilities": {
+      "title": "Cơ sở vật chất của chúng tôi",
+      "description": [
+        "Trụ sở chính của doanh nghiệp được đặt tại đường Đình Nghi Xuân, phường Bình Trị Đông, quận Bình Tân, TP. Hồ Chí Minh. Vị trí này chỉ cách cảng Cát Lái khoảng một giờ di chuyển bằng ô tô, mang lợi thế lớn trong việc vận chuyển hàng hóa, góp phần rút ngắn thời gian giao nhận và tối ưu chi phí logistics.",
+        "Khuôn viên tổng công ty có tổng diện tích hơn 5.700m², bao gồm khu sản xuất và khu văn phòng được quy hoạch khoa học, đồng bộ. Đường nội bộ cho phép xe tải trọng lên đến 10 tấn lưu thông dễ dàng, thuận tiện cho hoạt động xuất nhập hàng hóa quy mô lớn.",
+        "Khu sản xuất được trang bị hệ thống phòng cháy chữa cháy đạt tiêu chuẩn, dây chuyền máy móc hiện đại và môi trường làm việc an toàn, sạch sẽ. Khu văn phòng gồm hai tầng, được xây dựng kiên cố, thiết kế thoáng đãng với nhiều phòng chức năng phục vụ cho các hoạt động quản trị, điều hành và nghiên cứu phát triển sản phẩm."
+      ]
+    },
+    "production": {
+      "title": "Năng lực sản xuất",
+      "description": [
+        "Thanh Việt hiện có khả năng cung ứng hàng chục nghìn sản phẩm áo sơ mi mỗi tháng cho thị trường trong nước thông qua hệ thống phân phối bán lẻ và bán sỉ tại các tỉnh, thành phố lớn trải dài từ Bắc vào Nam như Hà Nội, Bắc Ninh, Bắc Giang, Phú Thọ, Vĩnh Phúc, Nam Định, Thanh Hoá, Nghệ An, Hà Tĩnh, Đà Nẵng, TP. Hồ Chí Minh, Cần Thơ.",
+        "Với dây chuyền sản xuất hiện đại, nguồn nhân lực lành nghề và sự kiểm soát chất lượng chặt chẽ, công ty luôn đảm bảo tiến độ giao hàng, độ đồng nhất sản phẩm và tính linh hoạt trong điều chỉnh mẫu mã theo nhu cầu thị trường.",
+        "Với định hướng phát triển bền vững, Thanh Việt đặt ra tầm nhìn trở thành thương hiệu dệt may hàng đầu Việt Nam trong phân khúc thời trang công sở chất lượng cao, vươn mình ra thị trường quốc tế, đặc biệt tại các quốc gia thuộc Liên minh châu Âu (EU).",
+        "Doanh nghiệp cam kết theo đuổi sứ mệnh cung cấp các sản phẩm không chỉ đẹp về hình thức mà còn xanh, sạch và an toàn, góp phần nâng tầm ngành dệt may Việt Nam trên bản đồ thời trang thế giới."
+      ]
+    },
+    "sanctions": "Do lệnh trừng phạt hoặc bất ổn chính trị, hiện tại chúng tôi không thể giao hàng đến các quốc gia và vùng lãnh thổ sau: Afghanistan, Myanmar, Triều Tiên (CHDCND), Sudan, Nam Sudan, Syria, khu vực Donetsk và Luhansk"
+  },
+  "cart": {
+    "title": "Giỏ hàng của bạn",
+    "empty": "Giỏ hàng của bạn đang trống",
+    "continueShopping": "Tiếp tục mua sắm",
+    "summary": "Tóm tắt đơn hàng",
+    "subtotal": "Tổng phụ",
+    "shipping": "Phí vận chuyển",
+    "total": "Tổng cộng",
+    "checkout": "Tiến hành thanh toán",
+    "update": "Cập nhật",
+    "remove": "Xóa"
+  },
+  "checkout": {
+    "title": "Thanh toán",
+    "contact": "Thông tin liên hệ",
+    "shipping": {
+      "title": "Địa chỉ giao hàng",
+      "address": "Địa chỉ",
+      "city": "Thành phố",
+      "zip": "Mã bưu điện",
+      "country": "Quốc gia"
+    },
+    "payment": {
+      "title": "Phương thức thanh toán",
+      "methods": {
+        "card": "Thẻ ghi nợ/tín dụng",
+        "revolut": "Revolut",
+        "paypal": "PayPal",
+        "bank": "Thanh toán ngân hàng trực tuyến",
+        "cash": "Thanh toán khi nhận hàng",
+        "twisto": "Mua trước trả sau (qua Twisto)"
+      }
+    },
+    "placeOrder": "Đặt hàng",
+    "emptyCart": "Giỏ hàng của bạn đang trống. Vui lòng thêm sản phẩm trước khi tiến hành thanh toán."
+  },
+  "success": {
+    "title": "Đặt hàng thành công!",
+    "orderNumber": "Mã đơn hàng",
+    "thankYou": "Cảm ơn bạn đã mua hàng!",
+    "emailConfirmation": "Bạn sẽ nhận được email xác nhận trong thời gian ngắn.",
+    "continueShopping": "Tiếp tục mua sắm"
+  },
+  "common": {
+    "currency": "CZK",
+    "originalPrice": "Giá gốc",
+    "discountedPrice": "Giá giảm",
+    "slogan": "Mềm như mây, xanh như cây"
+  },
+  "privacy": {
+    "title": "Chính sách bảo mật",
+    "mockupNotice": "Đây là một trang web mẫu được lập ra trong khuôn khổ dự án môn học Thương mại quốc tế ở Học viện Ngoại giao. Mọi thông tin trên trang web này đều là giả định, và hoàn toàn không có giá trị pháp lý hay tham khảo. Chúng mình cam kết không thu thập bất kỳ thông tin cá nhân nào.",
+    "introTitle": "Giới thiệu",
+    "content": {
+      "intro": "Chào mừng đến với Mayouš. Chính sách Bảo mật này giải thích cách chúng tôi có thể thu thập,  sử dụng và chia sẻ thông tin của bạn nếu đây là một trang web thực. Vì đây là một ví dụ mẫu, không có việc thu thập dữ liệu thực nào diễn ra.",
+      "collect": {
+        "title": "Thông tin chúng tôi sẽ thu thập",
+        "text": "Nếu đây là một trang web thương mại điện tử thực, chúng tôi có thể thu thập các loại thông tin sau:",
+        "items": [
+          "Thông tin cá nhân (tên, địa chỉ email, địa chỉ giao hàng)",
+          "Thông tin thanh toán (được xử lý an toàn thông qua các bộ xử lý thanh toán)",
+          "Lịch sử đơn hàng và sở thích",
+          "Thông tin thiết bị và dữ liệu duyệt web"
+        ]
+      },
+      "cookies": {
+        "title": "Cookies",
+        "text": "Trong một triển khai thực tế, trang web này sẽ sử dụng cookies để nâng cao trải nghiệm duyệt web của bạn. Những cookies này có thể bao gồm:",
+        "items": [
+          "Cookies thiết yếu cho chức năng của trang web",
+          "Cookies phân tích để hiểu việc sử dụng trang web",
+          "Cookies ưu tiên để ghi nhớ cài đặt của bạn",
+          "Cookies tiếp thị cho quảng cáo có mục tiêu"
+        ]
+      },
+      "usage": {
+        "title": "Cách chúng tôi sẽ sử dụng thông tin của bạn",
+        "text": "Nếu đây là một trang web thực, chúng tôi có thể sử dụng thông tin của bạn để:",
+        "items": [
+          "Xử lý và thực hiện đơn đặt hàng của bạn",
+          "Liên lạc với bạn về đơn đặt hàng và tài khoản của bạn",
+          "Cải thiện sản phẩm và dịch vụ của chúng tôi",
+          "Gửi thông tin tiếp thị (với sự đồng ý của bạn)"
+        ]
+      },
+      "security": {
+        "title": "Bảo mật dữ liệu",
+        "text": "Trong một triển khai thực tế, chúng tôi sẽ thực hiện các biện pháp bảo mật thích hợp để bảo vệ thông tin cá nhân của bạn khỏi truy cập, thay đổi, tiết lộ hoặc phá hủy trái phép."
+      },
+      "rights": {
+        "title": "Quyền của bạn",
+        "text": "Tùy thuộc vào vị trí của bạn, bạn sẽ có một số quyền nhất định đối với thông tin cá nhân của mình, chẳng hạn như:",
+        "items": [
+          "Quyền truy cập thông tin cá nhân của bạn",
+          "Quyền sửa thông tin không chính xác",
+          "Quyền xóa thông tin của bạn",
+          "Quyền phản đối một số xử lý",
+          "Quyền rút lại sự đồng ý"
+        ]
+      },
+      "contact": {
+        "title": "Thông tin liên hệ",
+        "text": "Nếu đây là một trang web thực, bạn có thể liên hệ với chúng tôi tại privacy@mayous.cz với bất kỳ câu hỏi nào liên quan đến quyền riêng tư."
+      },
+      "changes": {
+        "title": "Thay đổi đối với Chính sách này",
+        "text": "Chúng tôi sẽ bảo lưu quyền cập nhật Chính sách Bảo mật này định kỳ để phản ánh những thay đổi trong thực tiễn của chúng tôi hoặc vì lý do pháp lý, hoạt động hoặc quy định."
+      },
+      "lastUpdated": "Cập nhật lần cuối: 11 tháng 4 năm 2025"
+    }
+  },
+  "terms": {
+    "title": "Điều khoản và điều kiện",
+    "mockupNotice": "Đây là một trang web mẫu được lập ra trong khuôn khổ dự án môn học Thương mại quốc tế ở Học viện Ngoại giao. Mọi thông tin trên trang web này đều là giả định, và hoàn toàn không có giá trị pháp lý hay tham khảo. Chúng mình cam kết không thu thập bất kỳ thông tin cá nhân nào.",
+    "content": {
+      "intro": {
+        "title": "Giới thiệu",
+        "text": "Chào mừng đến với Mayouš. Các Điều khoản và Điều kiện này điều chỉnh việc bạn sử dụng trang web của chúng tôi và việc mua sản phẩm từ cửa hàng trực tuyến của chúng tôi. Bằng cách truy cập trang web của chúng tôi hoặc đặt hàng, bạn sẽ đồng ý với các điều khoản này nếu đây là một trang web thương mại điện tử thực."
+      },
+      "definitions": {
+        "title": "Định nghĩa",
+        "text": "Trong các Điều khoản và Điều kiện này:",
+        "items": [
+          "\"Chúng tôi\", \"của chúng tôi\" và \"Mayouš\" đề cập đến Công ty TNHH Thanh Việt",
+          "\"Bạn\" và \"của bạn\" đề cập đến người dùng hoặc khách hàng",
+          "\"Trang web\" đề cập đến mayous.cz và tất cả các tên miền phụ của nó",
+          "\"Sản phẩm\" đề cập đến các mặt hàng được bán trên trang web của chúng tôi"
+        ]
+      },
+      "account": {
+        "title": "Đăng ký tài khoản",
+        "text": "Nếu đây là một trang web thực, khi tạo tài khoản, bạn sẽ chịu trách nhiệm về:",
+        "items": [
+          "Cung cấp thông tin chính xác và đầy đủ",
+          "Duy trì tính bảo mật của thông tin đăng nhập tài khoản của bạn",
+          "Tất cả các hoạt động xảy ra dưới tài khoản của bạn"
+        ]
+      },
+      "products": {
+        "title": "Sản phẩm và giá cả",
+        "text": "Trong một triển khai thực tế:",
+        "items": [
+          "Chúng tôi sẽ cố gắng hiển thị chính xác màu sắc sản phẩm, nhưng không thể đảm bảo rằng màn hình thiết bị của bạn phản ánh chính xác màu sắc thực tế",
+          "Chúng tôi bảo lưu quyền sửa đổi giá bất cứ lúc nào",
+          "Tất cả giá được hiển thị bằng Koruna Séc (CZK) và bao gồm thuế áp dụng"
+        ]
+      },
+      "orders": {
+        "title": "Đơn hàng và thanh toán",
+        "text": "Nếu đây là một trang web thực:",
+        "items": [
+          "Việc đặt hàng sẽ cấu thành một đề nghị mua sản phẩm",
+          "Chúng tôi bảo lưu quyền từ chối hoặc hủy bất kỳ đơn đặt hàng nào vì bất kỳ lý do gì",
+          "Thanh toán sẽ được yêu cầu tại thời điểm đặt hàng",
+          "Chúng tôi sẽ chấp nhận các phương thức thanh toán khác nhau như được chỉ ra trên trang thanh toán"
+        ]
+      },
+      "shipping": {
+        "title": "Vận chuyển và giao hàng",
+        "text": "Trong một triển khai thực tế:",
+        "items": [
+          "Chi phí vận chuyển và thời gian giao hàng ước tính sẽ được cung cấp trong quá trình thanh toán",
+          "Chúng tôi sẽ không chịu trách nhiệm về sự chậm trễ do hải quan, điều kiện thời tiết hoặc các yếu tố khác ngoài tầm kiểm soát của chúng tôi",
+          "Rủi ro mất mát và quyền sở hữu đối với các mặt hàng đã mua sẽ chuyển cho bạn khi giao hàng"
+        ]
+      },
+      "returns": {
+        "title": "Trả hàng và hoàn tiền",
+        "text": "Nếu đây là một trang web thực, chính sách trả hàng của chúng tôi sẽ cho phép bạn trả lại sản phẩm trong vòng 14 ngày kể từ khi nhận hàng, với điều kiện chúng còn nguyên trạng với nhãn gắn liền và bao bì gốc."
+      },
+      "intellectual": {
+        "title": "Sở hữu trí tuệ",
+        "text": "Tất cả nội dung trên trang web này, bao gồm văn bản, đồ họa, logo, hình ảnh và phần mềm, sẽ là tài sản của Mayouš hoặc các nhà cung cấp nội dung của nó và được bảo vệ bởi luật bản quyền quốc tế."
+      },
+      "liability": {
+        "title": "Giới hạn trách nhiệm",
+        "text": "Trong một triển khai thực tế, trong phạm vi tối đa được pháp luật cho phép, Mayouš sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hậu quả hoặc trừng phạt nào phát sinh từ việc bạn sử dụng trang web hoặc sản phẩm của chúng tôi."
+      },
+      "governing": {
+        "title": "Luật điều chỉnh",
+        "text": "Các Điều khoản và Điều kiện này sẽ được điều chỉnh và giải thích theo luật pháp của Cộng hòa Séc, không liên quan đến các nguyên tắc xung đột pháp luật của nó."
+      },
+      "changes": {
+        "title": "Thay đổi đối với Điều khoản",
+        "text": "Chúng tôi bảo lưu quyền cập nhật các Điều khoản và Điều kiện này bất cứ lúc nào. Các thay đổi sẽ có hiệu lực ngay sau khi đăng trên trang web."
+      },
+      "lastUpdated": "Cập nhật lần cuối: 11 tháng 4 năm 2025"
+    }
+  }
+}
